@@ -1,0 +1,31 @@
+{
+    "name": "Polygon Hermez List",
+    "timestamp": "2022-04-25T21:14:49.580Z",
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "tags": {},
+    "keywords": [
+        "polygon",
+        "hermez",
+        "default"
+    ],
+    "tokens": [
+			{
+				"chainId": 1001,
+        "address": "0x4444b76378Cd59e74fb979eE6694357BAcCafd0C",
+        "name": "A Coin",
+        "symbol": "ACO",
+        "decimals": 18
+			},
+      {
+				"chainId": 1001,
+        "address": "0xFF10F4537d77A1a7144791D0c11ffF194833FeF7",
+        "name": "B Coin",
+        "symbol": "BCO",
+        "decimals": 18
+			}
+    ]
+}
