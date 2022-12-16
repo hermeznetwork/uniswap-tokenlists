@@ -14,15 +14,15 @@
     ],
     "tokens": [
 			{
-				"chainId": 1401,
-        "address": "0x783E25c31463775Db78F7c18a47eF42273a8b438",
+				"chainId": 1411,
+        "address": "0x0E6FF40e62d84C91Ea443cAD321B884200EE51f0",
         "name": "A Coin",
         "symbol": "ACO",
         "decimals": 18
 			},
       {
-				"chainId": 1401,
-        "address": "0x65cbA80234DAA7A61732d1a8BCceAD773866C8B8",
+				"chainId": 1411,
+        "address": "0xaeBeC5e24Ff6f9a640B599AAaD6aDdE463ce555B",
         "name": "B Coin",
         "symbol": "BCO",
         "decimals": 18
