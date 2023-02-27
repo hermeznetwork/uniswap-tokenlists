@@ -1,0 +1,31 @@
+{
+    "name": "Polygon zkevm List",
+    "timestamp": "2022-04-25T21:14:49.580Z",
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "tags": {},
+    "keywords": [
+        "polygon",
+        "zkevm",
+        "default"
+    ],
+    "tokens": [
+			{
+				"chainId": 1440,
+        "address": "0x06366BE150B20bb155E52db81327bc26B958149d",
+        "name": "A Coin",
+        "symbol": "ACO",
+        "decimals": 18
+			},
+      {
+				"chainId": 1440,
+        "address": "0xE2c93C553D21D6464dB9B30a8301AEfb2CC8310D",
+        "name": "B Coin",
+        "symbol": "BCO",
+        "decimals": 18
+			}
+    ]
+}
